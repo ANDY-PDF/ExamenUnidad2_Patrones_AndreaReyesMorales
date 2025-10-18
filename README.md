@@ -11,6 +11,6 @@ Este sistema implementa un control de estacionamiento utilizando dos patrones de
 - Visual Studio 2022 o superior
 - .NET 6.0 o superior
 
-### **Desde Visual Studio:**
+**Desde Visual Studio:**
 1. Abre el proyecto en Visual Studio
 2. Insertar codigo y ejecutar
